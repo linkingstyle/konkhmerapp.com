@@ -1,3 +1,3 @@
-.test{
-  color:red;
+input[type="text"], .form-control[disabled] {
+  height: 34px!important;
 }
