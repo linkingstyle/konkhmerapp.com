@@ -1,0 +1,6 @@
+{
+   name:{
+      bootstrapMinCss:'https://linkingstyle.github.io/konkhmerapp.com/bootstrap.min.css',
+      common:'https://linkingstyle.github.io/konkhmerapp.com/common.css',
+   }
+}
